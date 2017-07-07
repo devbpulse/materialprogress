@@ -1,12 +1,6 @@
-[![](https://img.shields.io/badge/Methods and size-106 | 12 KB-e91e63.svg)](http://www.methodscount.com/?lib=com.pnikosis%3Amaterialish-progress%3A1.7)
-
 # Material-ish Progress
 
 A material style progress wheel compatible with 2.3
-
-Try the demo app on Google Play:
-
-[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.pnikosis.materialishprogress.sample)
 
 I needed to keep a consistent (or as close as possible) look in an app across all Android Versions. The progress wheel is quite cool in Lollipop, and pretty horrible on Gingerbread.
 
@@ -26,9 +20,7 @@ You can also have a linear determinate progress mode if you don't like the anima
 
 ## Download
 
-You can copy the ProgressWheel.java (in the library module) and the attrs.xml content into your project. Or you can get the binaries from Maven central by adding in your build.gradle dependencies:
-
-```compile 'com.pnikosis:materialish-progress:1.7'```
+You can copy the ProgressWheel.java (in the library module) and the attrs.xml content into your project. 
 
 ## Usage
 
@@ -120,7 +112,7 @@ In the xml definition, besides the ```fillRadius``` property, you can set:
 License
 -------
 
-    Copyright 2014 Nico Hormazábal
+    Copyright 2017 Zhao Lin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
